@@ -1,6 +1,6 @@
 # Data Structure and Algorithm Project
 
-Simple terminal Pizza ordering system
+Simple terminal Pizza ordering system :pizza:
 
 ## Used
 
